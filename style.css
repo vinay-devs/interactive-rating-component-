@@ -59,8 +59,8 @@ p{
     display: none;
 }
 .rating-btn.selected{
-    background-color: orange;
-    color: white;
+    background-color:hsl(25, 97%, 53%);
+    color: hsl(0, 0%, 100%);
 }
 
 .submit p{
@@ -75,7 +75,7 @@ p{
 .submit-btn{
     margin-top: 20px;
     margin-left: 20px;
-    background-color: orange;
+    background-color: hsl(25, 97%, 53%);
     width: 85%;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -87,11 +87,11 @@ p{
 }
 .submit-btn:hover{
     background-color: white;
-    color: orange;
+    color: hsl(25, 97%, 53%);
 }
 
 .outputPage{
-    color: orange;
+    color: hsl(25, 97%, 53%);
     width: fit-content;
     border-radius: 10px;
     background-color: hsl(222, 12%, 22%);
